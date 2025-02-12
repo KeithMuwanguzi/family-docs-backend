@@ -1,0 +1,13 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+FamilyDocumentRepo.sln
+FamilyDocumentRepo/appsettings.Development.json
+FamilyDocumentRepo/appsettings.json
+FamilyDocumentRepo/bin
+FamilyDocumentRepo/obj
+FamilyDocumentRepo/Properties
+.idea
+global.json
