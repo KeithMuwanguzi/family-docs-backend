@@ -1,6 +1,0 @@
-@FamilyDocumentRepo_HostAddress = http://localhost:5071
-
-GET {{FamilyDocumentRepo_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
